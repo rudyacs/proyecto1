@@ -14,3 +14,20 @@
     color: #8d34d9;
     text-decoration: none;
 }
+
+.piedepagina ul {
+    list-style: none;
+    font-size: 1.4rem;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.piedepagina ul li {
+    margin: .2rem;
+}
+
+.piedepagina ul a {
+    color: #8d34d9;
+    text-decoration: none;
+}
